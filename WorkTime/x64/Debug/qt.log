@@ -1,0 +1,8 @@
+setting.ui|"E:\VSC\WorkTime\WorkTime\setting.ui" -o ".\GeneratedFiles\ui_setting.h"
+GeneratedFiles\Widget.ui|"E:\VSC\WorkTime\WorkTime\GeneratedFiles\Widget.ui" -o ".\GeneratedFiles\ui_Widget.h"
+QtGuiClass.h|"E:\VSC\WorkTime\WorkTime\QtGuiClass.h" -o ".\GeneratedFiles\Debug\moc_QtGuiClass.cpp" "-I.\GeneratedFiles" "-I." "-II:\Qt\Qt5.10.1\5.10.1\msvc2017_64\include" "-I.\GeneratedFiles\Debug\." "-II:\Qt\Qt5.10.1\5.10.1\msvc2017_64\include\QtCore" "-II:\Qt\Qt5.10.1\5.10.1\msvc2017_64\include\QtGui" "-II:\Qt\Qt5.10.1\5.10.1\msvc2017_64\include\QtANGLE" "-II:\Qt\Qt5.10.1\5.10.1\msvc2017_64\include\QtSql" "-II:\Qt\Qt5.10.1\5.10.1\msvc2017_64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB
+QtGuiClass.ui|"E:\VSC\WorkTime\WorkTime\QtGuiClass.ui" -o ".\GeneratedFiles\ui_QtGuiClass.h"
+WorkTime.ui|"E:\VSC\WorkTime\WorkTime\WorkTime.ui" -o ".\GeneratedFiles\ui_WorkTime.h"
+WorkTime.qrc|"E:\VSC\WorkTime\WorkTime\WorkTime.qrc" -o ".\GeneratedFiles\qrc_WorkTime.cpp" --name WorkTime
+Widget.ui|"E:\VSC\WorkTime\WorkTime\Widget.ui" -o ".\GeneratedFiles\ui_Widget.h"
+WorkTime.h|"E:\VSC\WorkTime\WorkTime\WorkTime.h" -o ".\GeneratedFiles\Debug\moc_WorkTime.cpp" "-I.\GeneratedFiles" "-I." "-II:\Qt\Qt5.10.1\5.10.1\msvc2017_64\include" "-I.\GeneratedFiles\Debug" "-II:\Qt\Qt5.10.1\5.10.1\msvc2017_64\include\QtCore" "-II:\Qt\Qt5.10.1\5.10.1\msvc2017_64\include\QtGui" "-II:\Qt\Qt5.10.1\5.10.1\msvc2017_64\include\QtANGLE" "-II:\Qt\Qt5.10.1\5.10.1\msvc2017_64\include\QtSql" "-II:\Qt\Qt5.10.1\5.10.1\msvc2017_64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB

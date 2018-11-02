@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/WorkTime">
+        <file>C:/Users/82436/Downloads/images/cogs-icon.png</file>
+        <file>C:/Users/82436/Downloads/images/maximize.png</file>
+        <file>C:/Users/82436/Downloads/images/minimize_window.png</file>
+        <file>C:/Users/82436/Downloads/images/close_window.png</file>
+        <file>C:/Users/82436/Downloads/images/start.png</file>
+        <file>C:/Users/82436/Downloads/images/stop-red.png</file>
+        <file>C:/Users/82436/Downloads/time.ico</file>
+    </qresource>
+</RCC>
