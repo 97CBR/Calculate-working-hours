@@ -1,0 +1,8 @@
+
+
+.vs/WorkTime/v15/.suo
+*.db
+x64/Debug/WorkTime.exe
+.vs/WorkTime/v15/Browse.VC.opendb
+*.ilk
+*.pdb
